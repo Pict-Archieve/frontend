@@ -3,7 +3,7 @@ import { useState } from "react";
 function App() {
   return (
     <>
-      <h1> PICT ARCHIEVES </h1>
+      <h1> PICT </h1>
     </>
   );
 }
